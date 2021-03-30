@@ -1,13 +1,13 @@
 # Links 
-* * The <a> element creates links. Click on anything from the <a> tag to the </a> tag closure. The page you want to link to is specified with the href attribute.
+* * The <a> element creates links. Click on anything from the a tag and a tag closure. The page you want to link to is specified with the href attribute.
 * * This text is known as link text between the opening tag and closing tag.
 * * The value of the href attribute will be the full web if you link to another website,A site address known as an absolute URL. When you link to pages on your own website, relative URLs can be used.
 * * You do not need to specify the domain name in the URL if you are connecting to other pages within the same site. A shorthand called a relative URL can be used.This is a shorter version of absolute URLs since the domain name does not have to be specified
 * * relative URLs that are a shortcut to tell the browser where the current page is
 * mailto
-* * You use <a> element to create a link that starts an email program for the user and addresses an email to a given email address. This time the href value begins with mailto: and the email address to which you wish the e-mail is sent is followed.
+* * You use atag element to create a link that starts an email program for the user and addresses an email to a given email address. This time the href value begins with mailto: and the email address to which you wish the e-mail is sent is followed.
 * target
-* * You can use the target attribute on opening tag <a> if you wish to open a link in a new window. The value should be _blank of this attribute.A web page author could like one of the most common reasons for opening a link in a new window, if it points to a different site. In such circumstances, they hope that after looking at the other site the user will return to the window.
+* * You can use the target attribute on opening tag a if you wish to open a link in a new window. The value should be _blank of this attribute.A web page author could like one of the most common reasons for opening a link in a new window, if it points to a different site. In such circumstances, they hope that after looking at the other site the user will return to the window.
 
 ## Layout 
 * * Every HTML element is treated by CSS like it is in its own box. Either a block box or an inline box is this box. Boxes of the block-level start with a new line and act as the main components of any layout, while inline boxes flow between the text.The width of the boxes allows you to control how much space each box takes. You can use borders, margins, padding and background colors for separating boxes.
