@@ -1,4 +1,4 @@
-# Images” (pp.94-125
+# Images
 * * It is good practice to create a folder for all pictures the site uses if you build a website at all levels,You can add subfolders to the pictures directory on a large website. Pictures such, for example as logos and buttons may be in placea directory called interface, product  Pictures may be on a page
 Products and images called Maybe in a link to news  Called new folder
 * * You have to use an element to add a picture to the page. This is a vacuumElement . They have to bear the
@@ -28,7 +28,7 @@ Two attributes follow:
 * * Create a partially transparent image or "see-through"
 * *Figure Images are frequently provided with subtitles. A new figure element has been added to HTML5 to contain images and their titles to link them with them.In the figure element, you can have more than one image so long as all share the same title. 
 
-## Chapter 11: “Color” (pp.246-263
+## Color
 *  Values of rgbThe colors express the red, green and blue used for making it. 
 *  Codes for hex These six-digit codes are red, green and blue, followed by a pound or hash # symbol in one colour.
 * Names of color ,The browsers recognize 147 predefined color names.
@@ -48,7 +48,7 @@ Two attributes follow:
 
 
 
-### Chapter 12: “Text” (pp.264-299)
+### Text
 
 * * Typeface Terminology
 
