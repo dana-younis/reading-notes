@@ -1,10 +1,13 @@
 #  Object Literals 
 * * Properties and methods have a name and a value, including variables and named functions. The name is considered a key in an entity. There cannot be two keys of the same name for an entity. This is how keys are used to control the values. A property may be a
+
 - string,
 - number, 
 - boolean,
 - sequence, 
 - object.
+
+
 * *  Objects consist of a series of pairs between name and meaning but the names are referred to as keys.
 
 * * The most simple and common way to construct objects is to create a literal notation. The object is the curly braces and their contents. There are many ways to construct the objects. The object is contained in a hotel variable, so you can call it a hotel object. Use a colon to separate each key from its value. Trim any property and process with a comma but not after the last value
@@ -19,7 +22,7 @@
 
 * * If you had two objects on the same tab, you'd build them both with the same notation but store them in variables with different names.
 
-## Chapter 5: “Document Object Model” (pp.183-242
+## Document Object Model
 * * A blueprint of a web page is created when a browser loads it. The model is known as a DOM tree, and it is stored in the memory of browsers.
 
 * *  attribute, and piece of text in HTML has its own DOM node. A document node is added to the tree's top; it represents the entire page. You navigate to any feature, attribute, or text node via the document node. It serves as the starting point for all DOM tree visits.
