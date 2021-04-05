@@ -39,7 +39,7 @@ The weeklyLikes method on EpicFailVideo's prototype is assigned a function with 
 * * The columns in a table need to form a straight line, so you often only see the width attribute on the first row and all subsequent rows would use that setting.
 
 
-### Functions, Methods, and Objects” (pp.106-144)
+### Functions, Methods, and Object
 * * CREATING AN OBJECT LITERAL NOTATION Literal notation is the easiest and most popular way to create objects.
 * * Separate each property and method with a comma but not after the last value.You can also access properties using square brackets.
 * * To access a property or method of an object you use the name of the object, followed by a period, then the name of the property or method you want to access.They work on objects created using literal or constructor notation.
