@@ -39,7 +39,7 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | read09         | [Forms and JS Events](201/read09.md)                        | 
 | read10         | [read10](201/read10.md)                                     | 
 | read11         | [read11](201/read11.md)                                     | 
-| read12         | [read12](201/read12.md)                                     | 
+| read12         | [Chart.js, Canvas](201/read12.md)                           | 
 | read13         | [read13](201/read13.md)                                     |
 | read014a       | [read14a](201/read14a.md)                                   |
 | read014b       | [read14b](201/read14b.md)                                   |
