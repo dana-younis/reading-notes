@@ -1,0 +1,17 @@
+# Local Storage
+* * For native applications, the operating system typically provides an abstraction layer for storing and retrieving application-specific data like preferences or runtime state.
+Cookies were invented early in the web's history, and indeed they can be used for persistent local storage of small amounts of data.
+
+* * userData allows web pages to store up to 64 KB of data per domain, in a hierarchical XML-based structure.
+Flash gives each domain 100 KB of storage for free.Beyond that, it prompts the user for each order of magnitude increase in data storage (1 Mb, 10 Mb, and so on.
+* * We've previously discussed Gears in the context of providing a geolocation API in Internet Explorer
+Gears provides an API to an embedded SQL database based on SQLite.
+After obtaining permission from the user once, Gears can store unlimited amounts of data per domain in SQL database tables.
+* * What I will refer to as "HTML5 Storage" is a specification named Web Storage, which was at one time part of the HTML5 specification proper, but was split out into its own specification for uninteresting political reasons.
+HTML5 Storage is based on named key/value pairs. You store data based on a named key, then you can retrieve that data with the same key. Data can be any type supported by JavaScript, including strings, Booleans,
+* * The storage event is fired on the window object whenever setItems or clear is called and actually changes something. The event is supported everywhere the localStorage object is supported, which includes Internet Explorer 8. Trapping the storage event works the same as every other event you've ever trapped.5 megabytes is how much storage space each origin gets by default. "No" is the answer to the next obvious question, "Can I ask the user for more storage space?" Some browsers like Opera allow the user to control each site's storage quota. It is purely a user-initiated action, not something that you as a web developer can build into your web application. If your browser supports HTML5 Storage, the demonstration page should magically remember your exact position within the game, including the number of moves you've made.
+* * The most important part of this function is the caveat that I mentioned earlier in this chapter, which I'll repeat here: Data is stored as strings. If you are storing something other than a string
+A new API has been standardized and implemented across all major browsers, platforms, and devices. In 2007, Google launched Gears, an open source cross- browser plugin which included an embedded database based on SQLite. This early prototype later influenced the creation of the Web SQL Database specification.
+* * Indexed Database API exposes what's called an object store. An object store shares many concepts with a SQL database. It has no structured query language. Instead, you use methods provided by the object store to open a cursor on the database named "USERS," enumerate through the records, filter out records for inactive users, and use accessor methods to get the values of each field in the remaining records. An early walk-through of IndexedDB is a good tutorial of how Indexed DB works, giving side-by-side comparisons of indexedDB and Web SQL Database.
+
+* * IndexedDB has only been implemented in a beta version of Firefox 4. Mozilla has stated that they will never implement Web SQL Database. Google is considering IndexedDB support for Chromium and Google Chrome.
