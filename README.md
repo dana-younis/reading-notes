@@ -62,6 +62,6 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 
 # 301
 
-| assigmment     | link                                                             | 
-| --------       | ----------                                                       | 
-| class-01       | [React and Component Based Architecture](301/class-01.md)        | 
+| assigmment     | link                                                               | 
+| --------       | ----------                                                         | 
+| class-01       | [Introduction to React and Components](301/Class-01.md)            | 
