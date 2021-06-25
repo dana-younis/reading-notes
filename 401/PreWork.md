@@ -39,10 +39,16 @@ Update your resume:[Update your resume](https://docs.google.com/document/d/1sBAU
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dana-younis-1598a01a9/)
 
 GitHub:  [LinkedIn](https://github.com/dana-younis)
+
+
 Social Media: [Social Media](https://www.instagram.com/dana_alyounis_98/)
 Behavioral questions:  [Behavioral questions](https://docs.google.com/document/d/1p3AO-Fl1xOO7Id53B3mOzwx_PhUi2tdzBcz1_UsS3BM/edit?usp=sharing)
 
 
-Networking event opportunities: URL
-Target companies: URL
-Professional Pitch: URL
+Networking event opportunities: [Networking event opportunities](https://docs.google.com/document/d/1CXQgfb1aiOWyKOcFwyFIwJJouwwwdHSixmt892Ahz9I/edit?usp=sharing)
+
+Target companies: [Target companies](https://docs.google.com/spreadsheets/d/1qOGW-9iJ1gZ8Ix-f7aW2GsMi2lSdNInLDqrMUXLtS6I/edit?usp=sharing)
+
+
+
+Professional Pitch: [Professional Pitch](https://drive.google.com/file/d/1A4jNNrCP5FHcFElYhd-VGYDXEq5pi8t_/view?usp=sharing)
