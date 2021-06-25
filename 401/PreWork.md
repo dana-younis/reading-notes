@@ -38,7 +38,7 @@ Update your resume:[Update your resume](https://docs.google.com/document/d/1sBAU
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/dana-younis-1598a01a9/)
 
-GitHub:  [LinkedIn](https://github.com/dana-younis)
+GitHub:  [GitHub](https://github.com/dana-younis)
 
 
 Social Media: [Social Media](https://www.instagram.com/dana_alyounis_98/)
