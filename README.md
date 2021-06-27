@@ -88,4 +88,9 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | assignment     | link                                                               | 
 | --------       | ----------                                                         | 
 | class-00       | [Pre-Work - Code 401: Advanced Javascript ](401/PreWork.md)        | 
+| class-01       | [Readings: Node Ecosystem, TDD, CI/CD](401/class-01.md)            | 
+| class-02       | [Express ](401/class-02.md)                                        | 
+| class-03       | [Express REST API ](401/class-03.md)                               | 
+
+
 
