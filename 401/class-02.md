@@ -44,7 +44,7 @@ Status codes for HTTP response
 # Document the vocabulary
 A web server is the software and hardware that accepts applications for the distribution of web pages
 
-Express is a lean framework to create Node.js apps
+## Express is a lean framework to create Node.js apps
 Routing is the way requests and traffic are sent across a network
 WRRC is the cycle of requests from web servers that supply web pages by clients.
 
@@ -62,3 +62,17 @@ What is the mean of 100% coverage
 Middleware libraries, in particular the express library
 
 ## Node is an execution time for external usage that omits browser-related apis in favor of standard os apis.
+## SOAP and ReST compare and compare: 
+SOAP means simple access protocol for the purpose of objects; REST means transferring representational state.
+It's a protocol for SOAP. With a specification, SOAP was designed. It comprises a WSDL file with the information needed to find out what the web service does in addition to the Web service address.
+REST is an architectural paradigm in which web services may be considered exclusively as RESTful if it complies with Client Server Stateless Cacheable Layered System limitations
+A single interface
+
+SOAP employs service interfaces for customers, and REST utilizes Uniform service locators to access the component to its functionality.
+# CD and CI
+Ontino integration(CI) is the code and practice philosophy which encourages development teams to make minor changes and often check in repositories for version controls. Since most current apps need to create code on many platforms and tools, the team requires a system that can integrate and validate its modifications.
+
+# Why we Use TDD:
+"Code coverage" refers to the usage of TDD; although a high coverage doesn't ensure the adequate utilization of TDD, a deficiency of TDD mastery coverage below 80 per cent is likely to suggest.
+
+In version management logs, test code should be verified in about equal quantities in every product code checked in.
