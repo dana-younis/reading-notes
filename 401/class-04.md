@@ -51,3 +51,33 @@ Which 3 things had you heard about previously and now have better clarity on?
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 - I am forward to learning more about the concepts of NoSQL/non-relational databases, further dive into scheme modularity and learn about big O in whiteboarding.
+
+# SQL and NoSQL—or related and non-relative databases. 
+ The difference is how they are constructed, how they store information and how they store it. Relational databases like phone books that record numbers and addresses are structured. They are structured. Non-relation databases, such folders containing everything from a person's address, telephoning number, Facebook preferences and online purchasing preferences, are document-oriented and distributed».
+
+# NoSQL databases 
+are contrasted by many non-functional characteristics, such as scalability, performance, and consistency. This element of NoSQL is extensively-studied both in practice and theory since particular non-functional features are frequently the key rationale for NoSQL adoption and basic conclusions on distributed systems like the CAP theorem apply well to NoSQL systems.
+
+
+# nosql versus sql
+SQL databases are mainly termed as Relational Databases (RDBMS) (RDBMS).
+SQL databases are table based databases whereas NoSQL databases are document based, key-value pairs, graph databases or wide-column stores.
+SQL databases have set schema whereas NoSQL databases offer dynamic schema for unstructured data.
+For scalability: In most common scenarios, SQL databases are vertically scalable.
+
+
+# SQL Database Examples
+
+MySQL Community Edition.
+
+MS-SQL Server Express Edition.
+
+Oracle Express Edition
+
+# NoSQL Database Examples
+
+MongoDB.
+
+CouchDB.
+
+Redis.

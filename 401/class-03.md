@@ -38,3 +38,26 @@ What three things do you want to learn in the next lecture/demo?
 
 What are you looking forward to doing or seeing how it works?
 - I'm happy to learn more about what we are doing. I feel like every day I grow a little bit more conscious of what's going in my code and can write and debug things a little more. But I have a long way to go and I want representatives.
+
+
+# ES6 Classes
+Classes are a pattern for object creation. They encapsulate codes for data processing. Classes in JS are prototype-built but also have certain syntax and semántics not used with class-like ES5 semántics.
+
+
+# Using Express Routing
+Routing indicates how customer requests are answered by the application's endpoints (URIs).
+
+Using Express App Object methods, routing is defined which matches HTTP methods; for example, GET requests and app.post are handled by. See app.METHOD for a complete list. You may also use App.all() for all HTTP and App.use() methods, to provide a callback function for the middleware.
+
+These routing techniques describe the callback function called when the program gets an application to the given route (endpoint) and HTTP methods (often referred to as 'handler functions'). In other words, a request is "listened" for the route(s) and method(s provided, and when it finds a match, the callback function supplied is called.
+
+# Express Routing
+With the introduction of the Express 4.0 Router, we are afforded more flexibility than ever before in creating our routes. To summarize, we can:
+
+- Use express.
+Router() several times to define groupings of routes
+- Apply the express.Router() to a part of our site using app.
+use()
+- Use route middleware to handle requests
+- Use route middleware to verify arguments using .
+param()\s- Use app.route() as a shortcut to the Router to define multiple requests on a route.
