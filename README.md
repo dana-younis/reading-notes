@@ -93,6 +93,8 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | class-03       | [Express REST API ](401/class-03.md)                               | 
 | class-04       | [Data Modeling ](401/class-04.md)                                  | 
 | class-05       | [ Linked Lists ](401/class-05.md)                                  | 
+| class-06       | [ Authentication ](401/class-06.md)                                | 
+
 
 
 
