@@ -95,7 +95,9 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | class-05       | [ Linked Lists ](401/class-05.md)                                  | 
 | class-06       | [ Authentication ](401/class-06.md)                                | 
 | class-07       | [Bearer Authorization ](401/class-07.md)                           | 
-| class-07       | [Access Control (ACL)](401/class-08.md)                            | 
+| class-08       | [Access Control (ACL)](401/class-08.md)                            | 
+| class-09       | [SQL](401/class-09.md)                                             | 
+
 
 
 
