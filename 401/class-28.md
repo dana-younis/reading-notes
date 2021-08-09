@@ -1,6 +1,5 @@
-[*HOME*](https://nassir1976.github.io/reading-notes/)
 
-## Readnote-31  Hooks API
+# Component Lifecycle / useEffect()
 
 ### Review, Research, and Discussion
 
