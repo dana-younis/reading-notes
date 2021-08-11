@@ -111,6 +111,8 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 |seState() Hook  | [ seState() Hook](401/class-27.md)                                 | 
 |ComponentLifecycle| [Component Lifecycle](401/class-28.md)                           | 
 |Advanced State with Reducers| [Advanced State with Reducers](401/class-29.md)        | 
+|Hash Tables     | [Hash Tables](401/class-30.md)                                     | 
+
 
 
 
