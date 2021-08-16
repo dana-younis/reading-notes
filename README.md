@@ -86,3 +86,4 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | Hash Tables                  | [Hash Tables](401/class-30.md)                              |
 | Context API                  | [Context API](401/class-31.md)                              |
 | Context API                  | [Context API](401/class-32.md)                              |
+| Login and Auth               | [<Login /> and <Auth />](401/class-33.md)                   |
