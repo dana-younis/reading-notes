@@ -19,7 +19,7 @@ HTTP cookies (also known as web cookies, Internet cookies, browser cookies, or j
 
 
 How do bearer tokens work?
-Bearer Token A security token with the property that any party in possession of the token (a “bearer”) can use the token in any way that any other party in possession of it can. Using a bearer token does not require a bearer to prove possession of cryptographic key material
+Token of the Bearer A security token with the characteristic that anyone in possession of it (a "bearer") can use it in any way that anyone else in possession of it can. The use of a bearer token does not necessitate the bearer proving ownership of cryptographic key material.
 
 Describe express middleware?
 Express middleware are functions that execute during the lifecycle of a request to the Express server. Each middleware has access to the HTTP request and response for each route (or path) it’s attached to. In fact, Express
