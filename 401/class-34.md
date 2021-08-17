@@ -16,3 +16,10 @@ role based access control:
 Function-based access control (RBAC) is a type of advanced access control that restricts network access based on a person's role within an organization. The degrees of access that employees have to the network are referred to as roles in RBAC.
 cookies from http:
 HTTP cookies (also known as web cookies, Internet cookies, browser cookies, or just cookies) are tiny data blocks produced by a web server and stored on a user's computer or other device by the user's web browser when the user is viewing a website. Cookies are stored on the device used to visit a website, and a user's device may get many cookies throughout a session.
+
+
+How do bearer tokens work?
+Bearer Token A security token with the property that any party in possession of the token (a “bearer”) can use the token in any way that any other party in possession of it can. Using a bearer token does not require a bearer to prove possession of cryptographic key material
+
+Describe express middleware?
+Express middleware are functions that execute during the lifecycle of a request to the Express server. Each middleware has access to the HTTP request and response for each route (or path) it’s attached to. In fact, Express
