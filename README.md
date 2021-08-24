@@ -92,3 +92,4 @@ Hello my name is Dana, I am a civil engineer, graduated from al Hussein bin tall
 | Application State with Redux | [Application State with Redux ](401/class-36.md)            |
 | Application State with Redux | [Application State with Redux ](401/class-37.md)            |
 | Redux - Asynchronous Actions | [Redux - Asynchronous Actions ](401/class-38.md)            |
+| Redux - Additional Topics    | [Redux - Additional Topics ](401/class-39.md)               |
