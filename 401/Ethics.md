@@ -1,0 +1,22 @@
+# Ethics in the Workplace
+
+Article: [The Code I'm Still Ashamed of](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)
+
+The author was requested to develop an online questionnaire for adolescent females to complete in order to propose a prescription medicine based on their responses - the catch was that whatever answer they gave resulted in the same recommendation - the drug the firm was marketing. This isn't prohibited, but it's definitely misleading. The significance of this is that the medication produced negative side effects such as depression and suicide ideation. It was eventually discovered that a girl had committed herself after obtaining the medication through the internet.
+I'm conflicted about this. There are several factors that contribute to this person's decision to commit suicide. The drug is, without a doubt, a significant one. However, there are many medicines that might have side effects like this, and this fact alone does not make the drug a terrible choice for everyone. This is an instance when users must be given with information before making their own decision. Of course, no such cautions appear to have been included in the online quiz. However, additional safeguards should have been in place to alert the individual about these adverse effects, such as the pharmacist, her and/or her parents' own research, and so on.
+It's also conceivable that this medication aided a large number of other adolescent females in a good way.
+
+I don't believe that silly, charming little "quizzes" like that are suitable for something as serious as prescription medicines. SKETCHY in all capitals is anything that is profit-driven and comes from non-doctors while posing as medical advice to children.
+
+Having said that, I don't believe the developer was directly involved in the suicide. Consider the following scenario: the questionnaire was completely authentic and did, in fact, propose different medicines based on the questions answered. It's still possible that this scenario would have occurred.
+So, while I don't believe this question was ethical, I also don't believe the author should be held accountable for the death.
+
+Reading this, I realized that we, as developers, are the "how" in the process of delivering information to people, and that, regrettably, we play just as important a role as the "what" and "why" aspects of the process. We must be aware of this and realize that if we foresee big issues with the code we are asked to develop, we must pause and think whether this is something against which we should take a position.
+However, I don't believe you can make a clear line from the unethical code to the death in this case, because even if the quiz didn't exist or was rigged, this girl or someone else might have ended up suicidal as a result of that medication.
+
+# Ethics in Technology
+
+Article: [The Cybersecurity of Self-Driving Cars](https://phys.org/news/2017-02-cybersecurity-self-driving-cars.html)
+This article discusses the threat of cyber terrorist/criminal hack assaults on self-driving vehicle software. Any self-driving vehicle will be a complex software program connected to the cloud, making it extremely vulnerable to flaws and internet-based assaults. This, in my opinion, is extremely dangerous and a deal-breaker for self-driving cars. Sorry. Perhaps, in the future, we will have systems that ACTUALLY eliminate the chance of these errors, but for the time being, the way the online and cloud infrastructure connection works is insufficient.
+This, in my opinion, is due to a lack of consumer attention. I'm not sure why we as humans are so compelled to keep abstracting and automating everything till the end of time. The reason is that the "urge" to constantly automating everything here is driven by a group of developers who are just interested in creating the next great thing for their own wallets and egos. It's as if someone designed a gadget that you don't need and then forced you to use it because "it's awesome." When it comes down to it, it's simply more noise in the system.
+Why do we require self-driving vehicles? Because there are so many of us, to begin with. To make the trip grid more efficient, we need to automate it. But why do we require it? Perhaps the solution is to employ self-driving systems to transport commodities throughout the world - food, resources, but not people. Not right now, at least. It doesn't matter how "awesome" it is to me.
